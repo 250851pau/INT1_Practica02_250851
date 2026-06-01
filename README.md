@@ -158,8 +158,7 @@ Es comun que en la documentacion del proyecto de software demos al usuario un pa
 
 Para clonar el proyecto ingresa la siguiente instrucción
 ```
-c:/users/PC-03Desktop> git clone https:/github.com/pauExp/Int-Practica02-250851.git
-
+c:/users/PC-03Desktop> git clone https://github.com/250851pau/INT1_Practica02_250851.git
 a diferencia de los bloques de citas, la tipografia y significado asociado no cambian.
 
 ### 6. Tablas
